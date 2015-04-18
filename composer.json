@@ -15,7 +15,8 @@
 		"illuminate/routing": "4.2.*",
 		"illuminate/events": "4.2.*",
 		"illuminate/database": "4.2.*",
-		"philo/laravel-blade": "2.*"
+		"philo/laravel-blade": "2.*",
+        "mrynk/l4-hashids": "master"
 	},
 	"autoload": {
 	 	"psr-0": {
